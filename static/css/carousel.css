@@ -68,6 +68,30 @@ body {
   /* rtl:remove */
   letter-spacing: -.05rem;
 }
+/* Alteração Fabinho
+---------------------------------------------*/
+
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    .imagem {
+      border-radius: 25px;
+    }
+    .carousel-caption {
+      background-color: rgba(255,255,255,0.50);
+      border-radius: 25px;
+      padding: 25px;
+    }
 
 
 /* RESPONSIVE CSS
