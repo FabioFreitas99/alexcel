@@ -13,9 +13,9 @@ body {
 -------------------------------------------------- */
 
 /* Carousel base class */
-.carousel {
+/*.carousel {
   margin-bottom: 4rem;
-}
+}*/
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   bottom: 3rem;
@@ -114,6 +114,20 @@ body {
 
 @media (min-width: 62em) {
   .featurette-heading {
-    margin-top: 7rem;
+    margin-top: 1rem;
   }
+}
+
+/* COLORINDO O FUNTO - FÁBIO FREITAS
+------------------------------------------------*/
+.color-cinza{
+  background-color:darkgrey;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.color-branco{
+  /*background-color:darkgrey;*/
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
